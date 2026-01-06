@@ -20,3 +20,4 @@ A lightweight vLLM-style inference engine in Rust
 // clarify the control flow
 // keep defaults in sync with the manifest
 // avoid re-reading the config on every call
+// drop an unused branch
